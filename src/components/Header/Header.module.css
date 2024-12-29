@@ -1,0 +1,102 @@
+/* Ensure the swiper container takes up full screen */
+.header_wrapper{
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.swiper {
+    height: 100% !important;  /* Full viewport height */
+    width: 100% !important;    /* Full width */
+    margin: 0;                 /* Remove any default margin */
+    padding: 0; 
+              /* Remove any default padding */
+}
+
+/* Ensure the slide containers take full height and width */
+.Header_slide {
+    height: 100vh;             /* Full viewport height */
+    width: 100%;               /* Full width */
+    background-image: url(./../../assets/hero-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;   /* Make sure the image covers the full area */
+    background-position: center center; /* Center the image to avoid any unwanted stretching */
+    position: relative;
+    margin: 0;                 /* Remove any default margin */
+    padding: 0; 
+}
+
+/* For each slide background image */
+.slide2 {
+    background-image: url(./../../assets/hero-2.png);
+}
+
+.slide3 {
+    background-image: url(./../../assets/hero-3.png);
+}
+
+/* Content styling */
+.Header_slide .content {
+    position: absolute;
+    bottom: 18%;
+    left: 15%;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.Header_slide .content small {
+    color: #fff;
+    font-size: 16px;
+}
+
+.Header_slide .content h2 {
+    color: #fff;
+    font-size: 36px;
+}
+
+.Header_slide .content h2 span {
+    color: #df8033;
+}
+
+.Header_slide .content p {
+    color: #fff;
+}
+.Header_slide .content p span{
+    color: #df8032;
+}
+
+@media screen and (max-width:768px){
+    .Header_slide .content {
+        bottom: 14%;
+    }
+    .Header_slide .content h2 {
+        font-size: 30px;
+    }
+    
+}
+
+@media screen and (max-width:768px){
+    .Header_slide .content h2 {
+        font-size: 25px;
+    }
+    .Header_slide .content small {
+        font-size: 14px;
+    }
+    
+}
+
+@media screen and (max-width:500px){
+
+    .Header_slide .content h2 {
+        font-size: 25px;
+    }
+    .Header_slide .content h2 small {
+        font-size: 14px;
+    }.Header_slide p {
+        font-size: 15px;
+    }
+    
+}
+
