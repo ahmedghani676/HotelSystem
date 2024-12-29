@@ -5,8 +5,7 @@ import img1 from './../../assets/testi-01.jpg'
 import img2 from './../../assets/testi-04.jpg'
 import img3 from './../../assets/testi-03.jpg'
 import { Autoplay } from 'swiper/modules'
-import 'swiper/css';  
-
+import "swiper/css";  
 const Testimonial = () => {
   return (
     <div id = "testimonials" className={`${TestimonialCss.testimonial_wrapper} section`}>

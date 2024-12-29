@@ -1,7 +1,7 @@
 import React from 'react'
 import headerCss from './../Header/Header.module.css'
 import {Swiper,SwiperSlide} from 'swiper/react'
-import 'swiper/css';  
+import "swiper/css";  
 import {Autoplay, Parallax} from 'swiper/modules'
 export const Header = () => {
   return (

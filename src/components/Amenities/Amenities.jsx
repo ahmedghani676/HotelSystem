@@ -6,7 +6,7 @@ import img2 from './../../assets/pool.jpg'
 import img3 from './../../assets/rest.jpg'
 import { Autoplay } from 'swiper/modules'
 import { Link } from 'react-scroll'; // Import Link from react-scroll
-import 'swiper/css';  
+import "swiper/css";  
 
 export const Amenities = () => {
   return (
