@@ -32,7 +32,7 @@ const Footer = () => {
               <h3>Contact</h3>
               <p>Address: <a href="https://maps.app.goo.gl/qNS1VeGBQp5TWAVA6" target="_blank" rel="noopener noreferrer">Click here to view our location on the map.</a></p>
               <p>Email: <a href="mailto:wisamalmadinah@gmail.com">wisamalmadinah@gmail.com</a> - Reach out to us for any inquiries.</p>
-              <p>Phone Number: <a href="tel:+966597889744">00966597889744</a> - Our team is ready to assist you anytime.</p>
+              <p>Phone Number: <a href="tel:+966597889744">966597889744</a> - Our team is ready to assist you anytime.</p>
           </div>
       </div>
   )
