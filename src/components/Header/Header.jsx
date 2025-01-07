@@ -27,7 +27,7 @@ export const Header = () => {
                               Enjoy your <span>Dream</span> Time with <br />
                               <span>Luxury</span> Experience
                           </h2>
-                          <p data-swiper-parallax = "-300"> Call Now <span>+00966597889744</span></p>
+                          <p data-swiper-parallax = "-300"> Call Now <span>+966597889744</span></p>
                       </div>
                   </div>
               </SwiperSlide>
@@ -41,7 +41,7 @@ export const Header = () => {
                               Enjoy your <span>Dream</span> Time with <br />
                               <span>Luxury</span> Experience
                           </h2>
-                          <p data-swiper-parallax = "-300"> Call Now <span>+00966597889744</span></p>
+                          <p data-swiper-parallax = "-300"> Call Now <span>+966597889744</span></p>
                  
                           </div>
                       </div>
@@ -56,7 +56,7 @@ export const Header = () => {
                               Enjoy your <span>Dream</span> Time with <br />
                               <span>Luxury</span> Experience
                           </h2>
-                          <p data-swiper-parallax = "-300"> Call Now <span>+00966597889744</span></p>
+                          <p data-swiper-parallax = "-300"> Call Now <span>+966597889744</span></p>
                  
                           </div>
                       </div>

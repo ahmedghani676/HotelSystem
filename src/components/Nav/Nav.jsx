@@ -18,7 +18,7 @@ const Nav = () => {
     return (
         <div className={navCss.nav_wrapper}>
             <div className={navCss.logo}>
-                <a href='#'><span>Wisam</span>X</a>
+                <a href='#'><span>Wisam</span>INT</a>
             </div>
 
             {/* Use Link component for scroll functionality */}

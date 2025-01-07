@@ -17,7 +17,6 @@ const About = () => {
           Welcome to Wisam International Hotel, where luxury and comfort converge. Nestled in the heart of the city, our hotel offers a unique blend of modern amenities and timeless elegance. Whether you're here for a business trip, family vacation, or special event, we promise an unforgettable stay with impeccable service and attention to detail.
         </p>
         <div className={aboutCSS.Cards}>
-          <p>200+ <span>Awards Won</span></p>
           <p>250k+ <span>Happy Visitors</span></p>
           <p>100+ <span>Memorable Events</span></p>
         </div>

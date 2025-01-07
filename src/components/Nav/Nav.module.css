@@ -99,5 +99,16 @@
 }
 
 @media screen and (max-width:768px){
-    
+      .nav_wrapper {
+        flex-direction: column; /* Stack the elements vertically on mobile */
+        align-items: flex-start;
+    }
+
+    .logo {
+        margin-bottom: 10px; /* Add space below the logo */
+    }
+
+    .Nav_btns {
+        margin-top: 10px; /* Add space above the Book Now button */
+    }
 }

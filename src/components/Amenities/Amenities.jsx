@@ -42,20 +42,7 @@ export const Amenities = () => {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
-          <div className={`${AminitiesCss.amenities_item}`}>
-            <img src={img2} alt="amenities-img" />
-            <div className={AminitiesCss.content}>
-              <h2>Gym and Sports</h2>
-              <p>
-                Stay fit and energized at our fully equipped gym, where you can enjoy a wide range of fitness activities. From cardio to strength training, we offer everything you need to maintain your routine while staying at our luxurious resort.
-              </p>
-               <Link to="rooms" smooth={true} duration={500}>
-              <button>Book Now</button>
-                          </Link>
-                      </div>
-          </div>
-        </SwiperSlide>
+      
         <SwiperSlide>
           <div className={`${AminitiesCss.amenities_item}`}>
             <img src={img3} alt="amenities-img" />

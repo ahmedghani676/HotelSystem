@@ -57,7 +57,7 @@ const Room = () => {
                       </div>
                       <div className={`${RoomsCss.Card_Back} ${RoomsCss.Card_Back1}`}>
                           <div className={RoomsCss.price}>
-                              <p>60 SAR</p>
+                              <p>115 SAR</p>
                           </div>
                           <div className={RoomsCss.Card_Content}>
                               <h3>Junior Suite</h3>
@@ -83,7 +83,7 @@ const Room = () => {
                       </div>
                       <div className={`${RoomsCss.Card_Back} ${RoomsCss.Card_Back2}`}>
                           <div className={RoomsCss.price}>
-                              <p>90 SAR</p>
+                              <p>130 SAR</p>
                           </div>
                           <div className={RoomsCss.Card_Content}>
                               <h3>Twin Room</h3>
@@ -108,7 +108,7 @@ const Room = () => {
                       </div>
                       <div className={`${RoomsCss.Card_Back} ${RoomsCss.Card_Back3}`}>
                           <div className={RoomsCss.price}>
-                              <p>120 SAR</p>
+                              <p>150 SAR</p>
                           </div>
                           <div className={RoomsCss.Card_Content}>
                               <h3>Quad Room</h3>
@@ -134,7 +134,7 @@ const Room = () => {
                       </div>
                       <div className={`${RoomsCss.Card_Back} ${RoomsCss.Card_Back4}`}>
                           <div className={RoomsCss.price}>
-                              <p>150 SAR</p>
+                              <p>180 SAR</p>
                           </div>
                           <div className={RoomsCss.Card_Content}>
                               <h3>Deluxe Room</h3>

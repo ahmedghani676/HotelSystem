@@ -22,7 +22,7 @@ const Service = () => {
                   <i className='ri-hotel-bed-line'></i>
                   <h3>Room Amenities</h3>
                   <p>Comfortable Bedding</p>
-                  <p>Bedroom & Gaming room</p>
+                  <p>Bedroom</p>
                   <p>TV & AC</p>
               </div>
               <div className={ServicesCss.Service_card}>
@@ -33,13 +33,7 @@ const Service = () => {
                   <p>Cafe & Canteen</p>
                   <p>Room Services</p>
               </div>
-              <div className={ServicesCss.Service_card}>
-                  <i className='ri-restaurant-line'></i>
-                  <h3>Special Features</h3>
-                  <p>Custom Rooms</p>
-                  <p>Cricket Ground</p>
-                  <p>Gym</p>
-              </div>
+
           </div>
     </div>
   )
