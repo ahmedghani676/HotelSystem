@@ -33,16 +33,20 @@
 }
 
 .Card_front {
-    background: url(./../../assets/1.jpg);
-    justify-content: end;
+    background: url(./../../assets/1222.jpg);
+    background-size: contain; /* Ensures the full image is shown */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling */
 }
+
+
 
 .Card_front button {
     width: 100%;
 }
 
 .Card_Back {
-    background: url(./../../assets/1.jpg);
+    background: url(./../../assets/1222.jpg);
     transform: rotateY(180deg);
     font-family: 'poppins';
     padding: 25px;
@@ -100,51 +104,51 @@
 
 /* For each card, the front and back should have unique classes, if needed */
 .Card_front1 {
-    background: url(./../../assets/1.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 .Card_Back1 {
-    background: url(./../../assets/1.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 .Card_front2 {
-    background: url(./../../assets/2.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 .Card_Back2 {
-    background: url(./../../assets/2.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 .Card_front3 {
-    background: url(./../../assets/3.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 .Card_Back3 {
-    background: url(./../../assets/3.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 .Card_front4 {
-    background: url(./../../assets/4.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 .Card_Back4 {
-    background: url(./../../assets/4.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 .Card_front5 {
-    background: url(./../../assets/5.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 .Card_Back5 {
-    background: url(./../../assets/5.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 .Card_front6 {
-    background: url(./../../assets/6.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 .Card_Back6 {
-    background: url(./../../assets/6.jpg);
+    background: url(./../../assets/1222.jpg);
 }
 
 /* Responsive breakpoints */
