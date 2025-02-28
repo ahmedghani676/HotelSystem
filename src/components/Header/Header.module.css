@@ -17,7 +17,7 @@
 .Header_slide {
     height: 100vh;             /* Full viewport height */
     width: 100%;               /* Full width */
-    background-image: url(./../../assets/hero-1.png);
+    background-image: url(./../../assets/13.jpg);
     background-repeat: no-repeat;
     background-size: cover;   /* Make sure the image covers the full area */
     background-position: center center; /* Center the image to avoid any unwanted stretching */
@@ -28,11 +28,11 @@
 
 /* For each slide background image */
 .slide2 {
-    background-image: url(./../../assets/hero-2.png);
+    background-image: url(./../../assets/14.jpg);
 }
 
 .slide3 {
-    background-image: url(./../../assets/hero-3.png);
+    background-image: url(./../../assets/19.jpg);
 }
 
 /* Content styling */
