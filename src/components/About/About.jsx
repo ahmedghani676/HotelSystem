@@ -9,12 +9,12 @@ const About = () => {
         <img src={aboutImg} alt="" />
       </div>
       <div className={aboutCSS.about_content}>
-        <small className="section_heading">Wisam International Hotel</small>
+        <small className="section_heading">Wisam Alami Hotel</small>
         <h2 className="section_title">
           Where Elegance meets <span>Excellence</span>
         </h2>
         <p>
-          Welcome to Wisam International Hotel, where luxury and comfort
+          Welcome to Wisam Alami Hotel (1 Star hotel), where luxury and comfort
           converge. Nestled in the heart of the city, our hotel offers a unique
           blend of modern amenities and timeless elegance. Whether you're here
           for a business trip, family vacation, or special event, we promise an
