@@ -21,7 +21,7 @@ const Nav = () => {
         <a href="#">
           <span>Wisam</span> ALAMI
           <span>Category 1</span>
-          <span style="color: gold;">⭐</span>
+          <span style={{ color: "gold" }}>⭐</span>
         </a>
       </div>
 
